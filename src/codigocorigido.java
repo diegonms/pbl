@@ -32,7 +32,7 @@ public class codigocorigido {
                     y1 = y2;
                 }
 
-                System.out.println("Aproximação da integral: " + areaTotal);
+                System.out.println("Aproximaçãooo da integral: " + areaTotal);
             } else {
                 System.out.println("Erro: o valor de n deve ser maior que zero.");
             }
